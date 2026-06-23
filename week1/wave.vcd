@@ -1,0 +1,175 @@
+$date
+	Sun Jun 07 12:00:53 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_div3 $end
+$var wire 1 ! clk_div3 $end
+$var reg 1 " clk_in $end
+$var reg 1 # rst $end
+$scope module u $end
+$var wire 1 ! clk_div3 $end
+$var wire 1 " clk_in $end
+$var wire 1 # rst $end
+$var reg 2 $ cnt_n [1:0] $end
+$var reg 2 % cnt_p [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx %
+b0 $
+1#
+0"
+x!
+$end
+#5
+0!
+b0 %
+1"
+#10
+0"
+#12
+0#
+#15
+b1 %
+1"
+#20
+b1 $
+0"
+#25
+1!
+b10 %
+1"
+#30
+b10 $
+0"
+#35
+b0 %
+1"
+#40
+0!
+b0 $
+0"
+#45
+b1 %
+1"
+#50
+b1 $
+0"
+#55
+1!
+b10 %
+1"
+#60
+b10 $
+0"
+#65
+b0 %
+1"
+#70
+0!
+b0 $
+0"
+#75
+b1 %
+1"
+#80
+b1 $
+0"
+#85
+1!
+b10 %
+1"
+#90
+b10 $
+0"
+#95
+b0 %
+1"
+#100
+0!
+b0 $
+0"
+#105
+b1 %
+1"
+#110
+b1 $
+0"
+#115
+1!
+b10 %
+1"
+#120
+b10 $
+0"
+#125
+b0 %
+1"
+#130
+0!
+b0 $
+0"
+#135
+b1 %
+1"
+#140
+b1 $
+0"
+#145
+1!
+b10 %
+1"
+#150
+b10 $
+0"
+#155
+b0 %
+1"
+#160
+0!
+b0 $
+0"
+#165
+b1 %
+1"
+#170
+b1 $
+0"
+#175
+1!
+b10 %
+1"
+#180
+b10 $
+0"
+#185
+b0 %
+1"
+#190
+0!
+b0 $
+0"
+#195
+b1 %
+1"
+#200
+b1 $
+0"
+#205
+1!
+b10 %
+1"
+#210
+b10 $
+0"
+#212
